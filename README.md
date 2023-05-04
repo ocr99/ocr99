@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Developer from Spain</h3>
 <br>
 
-- 👨‍💻 All of my projects are available at [ocr99.github.io/portfolio/](ocr99.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [ocr99.github.io/portfolio/](https://ocr99.github.io/portfolio/)
 
 - 📫 How to reach me **oscar.lopezconde@outlook.com**
 
