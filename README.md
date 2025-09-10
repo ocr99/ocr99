@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [ocr99.github.io/portfolio/](https://ocr99.github.io/portfolio/)
 
-- 📫 How to reach me **oscar.lopezconde@outlook.com**
+<!-- - 📫 How to reach me **oscar.lopezconde@outlook.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,5 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ocr99&show_icons=true&theme=dark&locale=en" alt="ocr99" /></p>
 
 
+<!-- 
 <h3 align="left">If you like what I do:</h3>
 <p><a href="https://www.buymeacoffee.com/ocr99"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ocr99" /></a></p><br><br>
+-->
